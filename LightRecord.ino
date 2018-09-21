@@ -71,7 +71,7 @@ void Record()
     usedData = 0;
 
   //Write the replay
-  timelineData[currentTimeline] = !digitalRead(btnRec);
+  timelineData[currentTimeline] = digitalRead(btnRec);
 
   //Check if the mem is full or not
   if(usedData == 1023) //Change this if you change the array.
