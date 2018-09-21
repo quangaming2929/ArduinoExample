@@ -1,5 +1,5 @@
 /*
-  QuangamingVn (R) 2015 - 2018 
+  QuangamingVn (C) 2015 - 2018 
   
   This code created by QuangamingVn collaborate with FRIT Club, all right covered at MIT license
   Idea: Nguyen Minh Quan
