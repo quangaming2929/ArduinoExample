@@ -5,7 +5,7 @@
   Idea: Nguyen Minh Quan
   Coder: Nguyen Minh Quan with help of Phan Manh
 
-  When you click the button, the LED get brighter an specific level, there are 4 light level
+  When you click the button, the LED light gets brighter. There are 4 different brightness levels.
 */
 
 
