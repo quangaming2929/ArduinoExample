@@ -1,7 +1,7 @@
 /*
-  QuangamingVn (C) 2015 - 2018 
+  Nguyen Minh Quan (C) 2018
   
-  This code created by QuangamingVn collaborate with FRIT Club, all right covered at MIT license
+  This code was created by Nguyen Minh Quan with collaboration from the FRIT club. Licensed under the MIT license
   Idea: Nguyen Minh Quan
   Coder: Nguyen Minh Quan with help of Phan Manh
 
